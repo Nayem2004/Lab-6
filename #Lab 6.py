@@ -55,6 +55,6 @@ def main():
     print("\nLinked list with node count:")
     print_linked_list_with_count(node1)
 
-# Call the main function.
+# Calls the main function.
 main()
 
